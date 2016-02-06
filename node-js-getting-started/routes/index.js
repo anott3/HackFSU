@@ -4,6 +4,10 @@ var router = express.Router();
 var instruction = '';
 
 /* GET home page. */
+router.get('/', function(req, res){
+	res.render('index', { title: 'Welcome to our Unity Server' });
+});
+
 router.get('/obtainInstruction', function(req, res) {
   res.send(instruction);
   //res.send('A get request made');
