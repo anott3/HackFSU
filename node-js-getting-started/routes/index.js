@@ -10,6 +10,7 @@ router.get('/', function(req, res){
 
 router.get('/obtainInstruction', function(req, res) {
   res.send(instruction);
+  instruction = '';
   //res.send('A get request made');
 });
 
