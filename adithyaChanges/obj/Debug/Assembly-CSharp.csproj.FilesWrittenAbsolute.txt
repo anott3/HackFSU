@@ -1,0 +1,17 @@
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/bukbukbukh/Documents/ballRolling/obj/Debug/Assembly-CSharp.dll
+/Users/bukbukbukh/Documents/ballRolling/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/UnityEngine.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/UnityEditor.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Mono.Cecil.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Unity.DataContract.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/bukbukbukh/Documents/ballRolling/Temp/bin/Debug/Mono.Cecil.Mdb.dll
