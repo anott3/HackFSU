@@ -4,7 +4,7 @@ using System.Collections;
 public class PlayerController : MonoBehaviour {
 
 	public Rigidbody rb;
-	public int speed = 5;
+	public int speed = 20;
 	void Start ()
 	{
 		rb = GetComponent<Rigidbody>();
@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour {
 		float moveVertical = Input.GetAxis ("Vertical");
 
 		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);
-		rb.AddForce (speed * movement);
-	
+		rb.velocity = movement * speed;
+
 	}
 }
